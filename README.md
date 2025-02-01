@@ -10,11 +10,22 @@ The Hospital Booking System is a web-based platform designed to simplify booking
 
 This is a hospital website template for **Basavatarakam Hospital**. The webpage provides users with easy access to essential medical services, including booking appointments, finding doctors, and exploring specialized medical areas like cardiology, oncology, and gynecology.
 
-(![image](https://github.com/user-attachments/assets/35fbc0d1-60c2-4b36-a7cb-35214fdd54fb)
+![image](https://github.com/user-attachments/assets/35fbc0d1-60c2-4b36-a7cb-35214fdd54fb)
+
+
 
 # Health Checkup Packages & Services
 
 This webpage showcases various health checkup packages available for both males and females, with details about different medical packages like **Master Health Checkup** and **Cancer Screening**. The page also highlights specialized medical services and promotes the hospital's commitment to providing comprehensive healthcare solutions.
 
 ![image](https://github.com/user-attachments/assets/53f288f8-1819-4992-adf5-874ecd1b70ea)
+
+
+# Contact Us - Basavatarakam Multispecialty Hospitals
+
+This page is a contact form for **Basavatarakam Hospital**, allowing users to submit their details and inquiries. It includes fields for name, telephone, email, and a message, which are processed by a PHP script. The page also provides contact information such as phone numbers, email, and WhatsApp for easy access.
+
+
+![image](https://github.com/user-attachments/assets/cc7c75b2-5902-41c0-9ec2-792f16618946)
+
 

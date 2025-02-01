@@ -35,9 +35,5 @@ This page is a contact form for **Basavatarakam Hospital**, allowing users to su
 This page provides **emergency information** for **Basavatarakam Hospital**, offering users immediate access to the **emergency contact number**, hospital location, and related services. It includes essential details like the **24/7 emergency hotline**, the **hospital address**, and a **Google map** for easy location.
 
 
-
-
-     
-
-        <d
+![image](https://github.com/user-attachments/assets/22679fdc-8ee9-4a3b-b008-c04a5d2e1cf2)
 

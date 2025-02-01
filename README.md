@@ -5,7 +5,7 @@ The Hospital Booking System is a web-based platform designed to simplify the pro
 - Manage doctor and patient profiles
 - Admin dashboard to manage staff and appointments
 - User authentication and role-based access (Patients, Doctors, Admin)
-- ![Alt text](![image](https://github.com/user-attachments/assets/35fbc0d1-60c2-4b36-a7cb-35214fdd54fb)
+(![image](https://github.com/user-attachments/assets/35fbc0d1-60c2-4b36-a7cb-35214fdd54fb)
 )
 
 

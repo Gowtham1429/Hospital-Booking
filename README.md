@@ -6,7 +6,7 @@ The Hospital Booking System is a web-based platform designed to simplify booking
 - Admin dashboard to manage staff and appointments
 - User authentication and role-based access (Patients, Doctors, Admin)
 
-- # Main page
+ # Main page
 
 This is a hospital website template for **Basavatarakam Hospital**. The webpage provides users with easy access to essential medical services, including booking appointments, finding doctors, and exploring specialized medical areas like cardiology, oncology, and gynecology.
 
